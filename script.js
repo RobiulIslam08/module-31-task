@@ -125,11 +125,26 @@ const people = [
     {name : 'Rina', age:15},
     {name : 'Suchorita', age:22}
 ]
-const fill = people.filter(n => n.age)
-for(let i of fill){
-    let sum = 0
-    let total = i + sum
-    console.log(total)
-}
+
+
+
+
+
+
+
+
+
+
+
+
+// let sum = 0;
+// for(let item of people){
+//     sum = item.age + sum
+// }
+// console.log(sum)
+
+
+
+
 
 
